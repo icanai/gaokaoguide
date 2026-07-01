@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "records": [
+    {
+      "uId": "131730",
+      "year": 2025,
+      "province": "上海",
+      "majorName": "数学类",
+      "score": 605,
+      "minRank": 432,
+      "planCount": 0,
+      "localBatchName": "9本科普通批",
+      "localTypeName": "",
+      "professionalGroup": ""
+    },
+    {
+      "uId": "131730",
+      "year": 2025,
+      "province": "上海",
+      "majorName": "工科试验班（拔尖计划英才班）",
+      "score": 598,
+      "minRank": 834,
+      "planCount": 0,
+      "localBatchName": "物理类本科普通类(物理)",
+      "localTypeName": "",
+      "professionalGroup": ""
+    },
+    {
+      "uId": "131730",
+      "year": 2025,
+      "province": "上海",
+      "majorName": "工科试验班（航空航天、人形机器人、低碳能源技术及安全）",
+      "score": 598,
+      "minRank": 834,
+      "planCount": 0,
+      "localBatchName": "本科",
+      "localTypeName": "",
+      "professionalGroup": ""
+    },
+    {
+      "uId": "131730",
+      "year": 2025,
+      "province": "上海",
+      "majorName": "物理学类",
+      "score": 598,
+      "minRank": 834,
+      "planCount": 0,
+      "localBatchName": "9本科普通批",
+      "localTypeName": "",
+      "professionalGroup": ""
+    },
+    {
+      "uId": "131730",
+      "year": 2025,
+      "province": "上海",
+      "majorName": "电子信息类（信息科技方向）",
+      "score": 598,
+      "minRank": 834,
+      "planCount": 0,
+      "localBatchName": "本科",
+      "localTypeName": "",
+      "professionalGroup": ""
+    },
+    {
+      "uId": "131730",
+      "year": 2025,
+      "province": "上海",
+      "majorName": "计算机类",
+      "score": 598,
+      "minRank": 834,
+      "planCount": 0,
+      "localBatchName": "9本科普通批",
+      "localTypeName": "",
+      "professionalGroup": ""
+    },
+    {
+      "uId": "131730",
+      "year": 2025,
+      "province": "上海",
+      "majorName": "理科试验班类（统计与大数据技术试验班）",
+      "score": 597,
+      "minRank": 913,
+      "planCount": 0,
+      "localBatchName": "物理类本科普通类(物理)",
+      "localTypeName": "",
+      "professionalGroup": ""
+    },
+    {
+      "uId": "137265",
+      "year": 2025,
+      "province": "上海",
+      "majorName": "院校投档线",
+      "score": 595,
+      "minRank": 1089,
+      "planCount": 0,
+      "localBatchName": "理工类第一批本科",
+      "localTypeName": "",
+      "professionalGroup": ""
+    },
+    {
+      "uId": "164202",
+      "year": 2025,
+      "province": "上海",
+      "majorName": "工科试验班（电气类）",
+      "score": 592,
+      "minRank": 1376,
+      "planCount": 0,
+      "localBatchName": "物理类本科普通类(物理)",
+      "localTypeName": "",
+      "professionalGroup": ""
+    },
+    {
+      "uId": "164202",
+      "year": 2025,
+      "province": "上海",
+      "majorName": "工科试验班（越杰计划机类专业预选）",
+      "score": 590,
+      "minRank": 1553,
+      "planCount": 0,
+      "localBatchName": "物理类本科普通批",
+      "localTypeName": "",
+      "professionalGroup": ""
+    }
+  ]
+}
